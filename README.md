@@ -35,4 +35,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 If you have any questions, contact whatdevsneed@berrysauce.me.
 
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/Uvacoder/devneeds)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/Uvacoder/whatdevsneed)
